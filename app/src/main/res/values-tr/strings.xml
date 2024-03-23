@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="neibstore">ִֶָ 𓂃˖˳·˖ ִֶָ ⋆NEIBSTORE⋆ִֶָ˖·˳˖𓂃 ִֶָ</string>
+    <string name="masukkan_nama_pelanggan">Müşterinin adını girin</string>
+    <string name="tipe_pelanggan">müşteri tipi :</string>
+    <string name="biasa">sıradan</string>
+    <string name="perak">gümüş</string>
+    <string name="emas">altın</string>
+    <string name="masukkan_kode_barang">Ürün Kodunu Girin</string>
+    <string name="masukkan_jumlah_barang">Öğe sayısını girin</string>
+    <string name="proses">İşlem</string>
+    <string name="selamat_datang">HOŞ GELDİN</string>
+    <string name="tipe">Tip:</string>
+    <string name="transaksi_hari_ini">Bugünkü İşlemler</string>
+    <string name="detail_barang">Ürün Detayları</string>
+    <string name="kode_barang">ürün Kodu:</string>
+    <string name="nama_barang">Esyalarin adi:</string>
+    <string name="harga">Fiyat:</string>
+    <string name="total_harga">Toplam fiyat:</string>
+    <string name="discount_harga">Fiyat indirimi:</string>
+    <string name="discount_member">Üye indirimleri:</string>
+    <string name="jumlah_bayar">Ödeme miktarı:</string>
+    <string name="terimakasih_sudah_berbelanja_disini">˗ˏˋ ♡ ˎˊ˗Burada alışveriş yaptığınız için teşekkür ederiz˗ˏˋ ♡ ˎˊ˗</string>
+    <string name="bagikan">paylaşmak</string>
+</resources>

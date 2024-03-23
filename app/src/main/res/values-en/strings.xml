@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="neibstore">ִֶָ 𓂃˖˳·˖ ִֶָ ⋆NEIBSTORE⋆ִֶָ˖·˳˖𓂃 ִֶָ</string>
+    <string name="masukkan_nama_pelanggan">Enter Customer Name</string>
+    <string name="tipe_pelanggan">Membership Type :</string>
+    <string name="biasa">Normal</string>
+    <string name="perak">Silver</string>
+    <string name="emas">Gold</string>
+    <string name="masukkan_kode_barang">Enter Item Code</string>
+    <string name="masukkan_jumlah_barang">Enter The Quantity Of Goods</string>
+    <string name="proses">Process</string>
+    <string name="selamat_datang">Welcome</string>
+    <string name="tipe">Type:</string>
+    <string name="transaksi_hari_ini">Transaction Today</string>
+    <string name="detail_barang">Item Details</string>
+    <string name="kode_barang">Item Code:</string>
+    <string name="nama_barang">Name Of Goods:</string>
+    <string name="harga">Price:</string>
+    <string name="total_harga">Total Price:</string>
+    <string name="discount_harga">Price Discount:</string>
+    <string name="discount_member">Member Discount:</string>
+    <string name="jumlah_bayar">Amount Paid:</string>
+    <string name="terimakasih_sudah_berbelanja_disini">˗ˏˋ ♡ ˎˊ˗Thankyou For Shopping Here˗ˏˋ ♡ ˎˊ˗</string>
+    <string name="bagikan">Share</string>
+</resources>

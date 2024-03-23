@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_margin="16dp"
+    android:gravity="center_horizontal"
+    android:background="@drawable/latarbon"
+    tools:context=".TotalBon">
+
+    <TextView
+        android:id="@+id/tvCustomer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/selamat_datang"
+        android:textColor="#86BFED"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvMembershipType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tipe"
+        android:textColor="#86BFED"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvTransactionHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/transaksi_hari_ini"
+        android:textColor="#E7E9F1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvItemDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/detail_barang"
+        android:textColor="#E7E9F1"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvItemCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kode_barang"
+        android:textColor="#E7E9F1"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/nama_barang"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvItemPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/harga"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvTotalPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/total_harga"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvDiscount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/discount_harga"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvMemberDiscount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/discount_member"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvTotalPayment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E7E9F1"
+        android:text="@string/jumlah_bayar"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvThankYou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#86BFED"
+        android:text="@string/terimakasih_sudah_berbelanja_disini"
+        android:textSize="16sp"
+        android:textStyle="italic"/>
+    <Button
+        android:id="@+id/btnShare"
+        android:text="@string/bagikan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

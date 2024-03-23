@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="neibstore">ִֶָ 𓂃˖˳·˖ ִֶָ ⋆NEIBSTORE⋆ִֶָ˖·˳˖𓂃 ִֶָ</string>
+    <string name="masukkan_nama_pelanggan">Masukkan Nama Pelanggan</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan :</string>
+    <string name="biasa">Biasa</string>
+    <string name="perak">Perak</string>
+    <string name="emas">Emas</string>
+    <string name="masukkan_kode_barang">Masukkan Kode Barang</string>
+    <string name="masukkan_jumlah_barang">Masukkan Jumlah Barang</string>
+    <string name="proses">Proses</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="tipe">Tipe:</string>
+    <string name="transaksi_hari_ini">Transaksi Hari Ini</string>
+    <string name="detail_barang">Detail Barang</string>
+    <string name="kode_barang">Kode barang:</string>
+    <string name="nama_barang">Nama Barang:</string>
+    <string name="harga">Harga:</string>
+    <string name="total_harga">Total Harga:</string>
+    <string name="discount_harga">Discount harga:</string>
+    <string name="discount_member">Discount member:</string>
+    <string name="jumlah_bayar">Jumlah Bayar:</string>
+    <string name="terimakasih_sudah_berbelanja_disini">˗ˏˋ ♡ ˎˊ˗Terimakasih Sudah Berbelanja Disini˗ˏˋ ♡ ˎˊ˗</string>
+    <string name="bagikan">Bagikan</string>
+</resources>
